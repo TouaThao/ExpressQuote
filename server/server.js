@@ -12,4 +12,4 @@ app.use('/quotes', quoteRoute)
 
 app.listen(port, function() {
     console.log('listening on port', port);
-});
+}); 
